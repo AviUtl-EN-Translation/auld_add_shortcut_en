@@ -1,4 +1,9 @@
 # auls_add_shortcut_en
-메모리를 참조하는 다른 플러그인이나 DLL에 필요합니다.
 
-*  AviUtl 1.00 / 확장 편집 0.92 전용
+Passes memory address information to other plugins or DLLs.
+This plugin does nothing on its own.
+
+AviUtl and Advanced Editing will only work with the following versions.
+
+*  AviUtl   1.00
+*  Advanced Editing 0.92
