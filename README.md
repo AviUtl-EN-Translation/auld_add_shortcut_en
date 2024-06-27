@@ -7,3 +7,5 @@ AviUtl and Advanced Editing will only work with the following versions.
 
 *  AviUtl   1.00
 *  Advanced Editing 0.92
+
+This plug-in is from [here](https://auls.client.jp/)
